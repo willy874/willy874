@@ -13,7 +13,7 @@
 ## Code Skill
 <div>
   <div style="padding: 0 4px;margin: 4px 2px;background: #E34F26;display: inline-block;color: #fff;">
-    <img src="./images/html.svg" alt="HTML5">
+    <img src="https://github.com/willy874/willy874/blob/master/images/html.svg" alt="HTML5">
     <span>HTML5</span>
   </div>
   <div style="padding: 0 4px;margin: 4px 2px;background: #A86454;display: inline-block;color: #fff;">
