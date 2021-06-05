@@ -1,5 +1,25 @@
 # 竹子 (willy)
 
+## Basic Information
+Age: 30y
+
+Qualifications: 2y
+
+LineId: willy874
+
+Email: willy8742891@gmail.com
+
+<hr>
+
+您好~歡迎來到竹子的 Github 專欄。
+
+我喜歡研究各種框架渲染，或是開發各式組件，如果你也喜歡可以一同分享你的創意和經驗。
+
+平時假日會開線上線下活動，相同領域的朋友可以一起交流，主要都是讀書會為主。
+
+平日晚間會帶一些新手教學，有任何問題歡迎私下發問。
+<hr>
+
 ## Github Site Projcet
 ### [履歷表](https://willy874.github.io)
 ### [模擬伺服器 bam-simulation-server](https://github.com/willy874/bam-simulation-server)
@@ -9,7 +29,7 @@
 ### [邏輯開發 bam-utility-plugin](https://github.com/willy874/bam-utility-plugin)
 ### [後台練習 backstage-arm](https://github.com/willy874/backstage-arm)
 ### [前台練習 Nuxt-Test](https://github.com/willy874/Nuxt-Test)
-
+<hr>
 ## Code Skill
 <div>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
@@ -18,6 +38,7 @@
   <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=SASS&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
+  <img alt="Mithril" src="https://img.shields.io/badge/-Mithril-000000?style=flat-square&logo=Mithril&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue&logoColor=white" />
   <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-4FC08D?style=flat-square&logo=Nuxt&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat-square&logo=Node&logoColor=white" />
