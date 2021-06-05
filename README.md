@@ -1,16 +1,5 @@
 # 竹子 (willy)
 
-## Basic Information
-Age: 30y
-
-Qualifications: 2y
-
-LineId: willy874
-
-Email: willy8742891@gmail.com
-
-<hr>
-
 您好~歡迎來到竹子的 Github 專欄。
 
 我喜歡研究各種框架渲染，或是開發各式組件，如果你也喜歡可以一同分享你的創意和經驗。
@@ -18,6 +7,15 @@ Email: willy8742891@gmail.com
 平時假日會開線上線下活動，相同領域的朋友可以一起交流，主要都是讀書會為主。
 
 平日晚間會帶一些新手教學，有任何問題歡迎私下發問。
+
+Basic Information   |                        |
+--------------------|------------------------|
+Age                 | willy874               |
+Qualifications      | 30y                    |
+LineId              | willy874               |
+Email               | willy8742891@gmail.com |
+
+
 <hr>
 
 ## Github Site Projcet
