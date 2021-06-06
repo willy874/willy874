@@ -10,9 +10,9 @@
 
 Basic Information   |                        |
 --------------------|------------------------|
-Age                 | willy874               |
-Qualifications      | 30y                    |
-LineId              | willy874               |
+Age                 | 30y                    |
+Qualifications      | 2y                     |
+Line Id             | willy874               |
 Email               | willy8742891@gmail.com |
 
 
