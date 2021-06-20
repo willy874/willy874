@@ -19,7 +19,7 @@ Email               | willy8742891@gmail.com |
 <hr>
 
 ## Github Site Projcet
-### [履歷表](https://willy874.github.io)
+### [線上履歷表](https://willy874.github.io/public/resume.pdf)
 ### [模擬伺服器 bam-simulation-server](https://github.com/willy874/bam-simulation-server)
 ### [自動化工具 bam-auto-tool](https://github.com/willy874/bam-auto-tool)
 ### [Vue2插件開發 bam-vue3-plugins](https://github.com/willy874/bam-vue2-plugins)
