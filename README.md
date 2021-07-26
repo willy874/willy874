@@ -22,8 +22,8 @@ Email               | willy8742891@gmail.com |
 ### [線上履歷表](https://willy874.github.io/public/resume.pdf)
 ### [模擬伺服器 bam-simulation-server](https://github.com/willy874/bam-simulation-server)
 ### [自動化工具 bam-auto-tool](https://github.com/willy874/bam-auto-tool)
-### [模型框架開發 bam-model-base](https://github.com/willy874/bam-model-base)
-### [Vue後台開發 bam-backstage](https://github.com/willy874/bam-backstage)
+### [模型框架 bam-model-base](https://github.com/willy874/bam-model-base)
+### [Vue3 後台 bam-backstage](https://github.com/willy874/bam-backstage)
 ### [邏輯開發 bam-utility-plugin](https://github.com/willy874/bam-utility-plugin)
 <hr>
 
