@@ -22,11 +22,9 @@ Email               | willy8742891@gmail.com |
 ### [線上履歷表](https://willy874.github.io/public/resume.pdf)
 ### [模擬伺服器 bam-simulation-server](https://github.com/willy874/bam-simulation-server)
 ### [自動化工具 bam-auto-tool](https://github.com/willy874/bam-auto-tool)
-### [Vue2插件開發 bam-vue3-plugins](https://github.com/willy874/bam-vue2-plugins)
-### [Vue3插件開發 bam-vue3-plugins](https://github.com/willy874/bam-vue3-plugins)
+### [模型框架開發 bam-model-base](https://github.com/willy874/bam-model-base)
+### [Vue後台開發 bam-backstage](https://github.com/willy874/bam-backstage)
 ### [邏輯開發 bam-utility-plugin](https://github.com/willy874/bam-utility-plugin)
-### [後台練習 backstage-arm](https://github.com/willy874/backstage-arm)
-### [前台練習 Nuxt-Test](https://github.com/willy874/Nuxt-Test)
 <hr>
 
 ## Code Skill
@@ -44,7 +42,6 @@ Email               | willy8742891@gmail.com |
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white" />
   <img alt="PM2" src="https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=PM2&logoColor=white" />
-  <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white" />
   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=Rollup&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
