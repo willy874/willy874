@@ -10,28 +10,36 @@
 
 Basic Information   |                        |
 --------------------|------------------------|
-Age                 | 30y                    |
-Qualifications      | 2y                     |
+Age                 | 31y                    |
+Qualifications      | 2.5y                   |
 Line Id             | willy874               |
 Email               | willy8742891@gmail.com |
 
 
 <hr>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=willy874&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=willy874&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=willy874&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=willy874&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=willy874&theme=monokai)
+
+<hr>
+
 ## Github Site Projcet
 ### [線上履歷表](https://willy874.github.io/public/resume.pdf)
-### [模擬伺服器 bam-simulation-server](https://github.com/willy874/bam-simulation-server)
-採用 express 核心開發後端架構，建構一個 nodejs 的伺服器服務。
-### [自動化工具 bam-auto-tool](https://github.com/willy874/bam-auto-tool)
-採用 nodejs 建立各種便捷的建構專案工具。
-### [模型框架 bam-model-base](https://github.com/willy874/bam-model-base)
-所有前端專案均會依賴該 Model 架構來開發。
+### [個人ＵＩ庫 bam-ui](https://github.com/willy874/bam-ui)
+嘗試建立各式 UI 的函式庫，內部也嘗試去符合運行
 ### [邏輯開發 bam-utility-plugin](https://github.com/willy874/bam-utility-plugin)
 微型共用函式庫，提供各種便利的運算。
+### [無障礙電子書 accessibility-book](https://github.com/willy874/accessibility-book)
+採用 Vue2 + js 所開發出的架構，專為盲胞所客製化的網站。
+### [模擬伺服器 bam-simulation-server](https://github.com/willy874/bam-simulation-server)
+嘗試自行建立一個後端架構，建構一個 nodejs 的伺服器服務。
+### [自動化工具 bam-auto-tool](https://github.com/willy874/bam-auto-tool)
+採用 nodejs 建立各種便捷的建構專案工具。
 ### [Vue3 後台 bam-backstage](https://github.com/willy874/bam-backstage)
 採用 Vue3 + Vite + Tailwind2 開發的後台專案。
-### [Vue2 後台 backstage-arm](https://github.com/willy874/backstage-arm)
-採用 Vue2 + Vue-Cli + Bootstrap4 開發的後台專案。
 <hr>
 
 ## Code Skill
