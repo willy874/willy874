@@ -11,7 +11,7 @@
 Basic Information   |                        |
 --------------------|------------------------|
 Age                 | 31y                    |
-Qualifications      | 2.5y                   |
+Qualifications      | 2019/07 (2.5y)                   |
 Line Id             | willy874               |
 Email               | willy8742891@gmail.com |
 
@@ -26,10 +26,12 @@ Email               | willy8742891@gmail.com |
 
 <hr>
 
-## Github Site Projcet
+## Github Site Project
 ### [線上履歷表](https://willy874.github.io/public/resume.pdf)
+### [記帳軟體 nothing-accounting](https://github.com/willy874/nothing-accounting-frontend)
+為與社群共同開發的專案，以 React + Next 為開發核心。
 ### [個人ＵＩ庫 bam-ui](https://github.com/willy874/bam-ui)
-嘗試建立各式 UI 的函式庫，內部也嘗試去符合運行
+嘗試建立各式 UI 的函式庫，以 Vue3 為主體開發。
 ### [邏輯開發 bam-utility-plugin](https://github.com/willy874/bam-utility-plugin)
 微型共用函式庫，提供各種便利的運算。
 ### [無障礙電子書 accessibility-book](https://github.com/willy874/accessibility-book)
