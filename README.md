@@ -10,11 +10,10 @@
 
 | Basic Information |                        |
 | ----------------- | ---------------------- |
-| Age               | 31y                    |
-| Qualifications    | 2019/07 (3y)           |
+| First Job Time    | 2019/07                |
 | Line Id           | willy874               |
 | Email             | willy8742891@gmail.com |
-| LastUpdate        | 2022/11/22             |
+| LastUpdate        | 2023/06/25             |
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=willy874&theme=monokai)
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=willy874&theme=monokai)
@@ -26,25 +25,17 @@
 
 ### [線上履歷表](https://willy874.github.io/public/resume.pdf)
 
-### [邏輯開發 bamboo-utils](https://github.com/willy874/bam-utils)
+### [UI Project](https://github.com/willy874/bam-cms)
+
+採用 Monorepo 建構專案結構，嘗試從底層實作出各式功能。
+
+### [微前端範例](https://github.com/willy874/poc-micro-frontend)
 
 微型共用函式庫，提供各種便利的運算。
 
 ### [無障礙電子書 accessibility-book](https://github.com/willy874/accessibility-book)
 
 採用 Vue2 + js 所開發出的架構，專為盲胞所客製化的網站。
-
-### [個人ＵＩ庫 bam-ui](https://github.com/willy874/bam-ui)
-
-嘗試建立各式 UI 的函式庫，以 Vue3 為主體開發。
-
-### [模擬伺服器 bam-simulation-server](https://github.com/willy874/bam-simulation-server)
-
-嘗試自行建立一個後端架構，建構一個 nodejs 的伺服器服務。
-
-### [Vue3 後台 bam-backstage](https://github.com/willy874/bam-backstage)
-
-採用 Vue3 + Vite + Tailwind2 開發的後台專案。
 
 ## Code Skill
 
