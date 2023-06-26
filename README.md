@@ -17,9 +17,9 @@
 
 ## Social Media
 
-(LinkedIn)[https://www.linkedin.com/in/willy-shiao-2b0a1617b/]
-(Facebook)[https://www.facebook.com/f2eBamboo]
-(Medium)[https://medium.com/@willy8742891]
+- [LinkedIn](https://www.linkedin.com/in/willy-shiao-2b0a1617b/)
+- [Facebook](https://www.facebook.com/f2eBamboo)
+- [Medium](https://medium.com/@willy8742891)
 
 ## Dashboard
 
