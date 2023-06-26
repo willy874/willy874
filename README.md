@@ -15,6 +15,14 @@
 | Email             | willy8742891@gmail.com |
 | LastUpdate        | 2023/06/25             |
 
+## Social Media
+
+(LinkedIn)[https://www.linkedin.com/in/willy-shiao-2b0a1617b/]
+(Facebook)[https://www.facebook.com/f2eBamboo]
+(Medium)[https://medium.com/@willy8742891]
+
+## Dashboard
+
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=willy874&theme=monokai)
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=willy874&theme=monokai)
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=willy874&theme=monokai)
@@ -31,7 +39,7 @@
 
 ### [微前端範例](https://github.com/willy874/poc-micro-frontend)
 
-微型共用函式庫，提供各種便利的運算。
+針對微前端進行實作 POC 方案，針對各種打包場景進行測試。
 
 ### [無障礙電子書 accessibility-book](https://github.com/willy874/accessibility-book)
 
