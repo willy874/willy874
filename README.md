@@ -13,13 +13,14 @@
 | First Job Time    | 2019/07                |
 | Line Id           | willy874               |
 | Email             | willy8742891@gmail.com |
-| LastUpdate        | 2023/06/25             |
+| LastUpdate        | 2023/11/26             |
 
 ## Social Media
 
 - [LinkedIn](https://www.linkedin.com/in/willy-shiao-2b0a1617b/)
 - [Facebook](https://www.facebook.com/f2eBamboo)
 - [Medium](https://medium.com/@willy8742891)
+- [Youtube](https://www.youtube.com/@f2e-399/videos)
 
 ## Dashboard
 
@@ -33,7 +34,7 @@
 
 ### [線上履歷表](https://willy874.github.io/public/resume.pdf)
 
-### [UI Project](https://github.com/willy874/bam-cms)
+### [個人 Library](https://github.com/willy874/bam-library)
 
 採用 Monorepo 建構專案結構，嘗試從底層實作出各式功能。
 
@@ -44,10 +45,6 @@
 ### [API 教學範例](https://github.com/willy874/react-api-reaction)
 
 為提攜的學生設計的 React API 教學範例，提供最基本 架構來操作日常業務。
-
-### [無障礙電子書 accessibility-book](https://github.com/willy874/accessibility-book)
-
-採用 Vue2 + js 所開發出的架構，專為盲胞所客製化的網站。
 
 ## Code Skill
 
