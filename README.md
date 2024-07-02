@@ -8,27 +8,19 @@
 
 平日晚間會帶一些新手教學，有任何問題歡迎私下發問。
 
-| Basic Information |                        |
-| ----------------- | ---------------------- |
-| First Job Time    | 2019/07                |
-| Line Id           | willy874               |
-| Email             | willy8742891@gmail.com |
-| LastUpdate        | 2023/11/26             |
+| Basic Information |                         |
+| ----------------- | ----------------------- |
+| First Job Time    | 2019/07 (想知道資歷自己算) |
+| Line Id           | willy874                |
+| Email             | willy8742891@gmail.com  |
+| LastUpdate        | 2024/07/02              |
 
 ## Social Media
 
+- [Youtube](https://www.youtube.com/@f2e-399/videos)
 - [LinkedIn](https://www.linkedin.com/in/willy-shiao-2b0a1617b/)
 - [Facebook](https://www.facebook.com/f2eBamboo)
 - [Medium](https://medium.com/@willy8742891)
-- [Youtube](https://www.youtube.com/@f2e-399/videos)
-
-## Dashboard
-
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=willy874&theme=monokai)
-![image](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=willy874&theme=monokai)
-![image](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=willy874&theme=monokai)
-![image](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=willy874&theme=monokai)
-![image](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=willy874&theme=monokai)
 
 ## Github Site Project
 
@@ -38,6 +30,17 @@
 
 採用 Monorepo 建構專案結構，嘗試從底層實作出各式功能。
 
+### [筆記與部落格整理](https://github.com/willy874/BambooDiaryBlog)
+
+集中所有文字產出，包含文字寫作、學習筆記、主題分享。
+
+- [MicroFrontend](https://github.com/willy874/BambooDiaryBlog/tree/master/TopicSharing/MicroFrontend)
+- [StateManager](https://github.com/willy874/BambooDiaryBlog/tree/master/TopicSharing/StateManager)
+
+### [旅遊紀錄 Side Project](https://github.com/HAHAMud/ease-trip)
+
+與朋友共同玩的 Side Project
+
 ### [微前端範例](https://github.com/willy874/poc-micro-frontend)
 
 針對微前端進行實作 POC 方案，針對各種打包場景進行測試。
@@ -45,6 +48,18 @@
 ### [API 教學範例](https://github.com/willy874/react-api-reaction)
 
 為提攜的學生設計的 React API 教學範例，提供最基本 架構來操作日常業務。
+
+### [無障礙電子書](https://github.com/willy874/accessibility-book)
+
+為盲人特化，符合視障者閱讀體驗的介面。
+
+## Dashboard
+
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=willy874&theme=monokai)
+![image](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=willy874&theme=monokai)
+![image](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=willy874&theme=monokai)
+![image](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=willy874&theme=monokai)
+![image](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=willy874&theme=monokai)
 
 ## Code Skill
 
