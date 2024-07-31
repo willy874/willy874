@@ -34,8 +34,8 @@
 
 集中所有文字產出，包含文字寫作、學習筆記、主題分享。
 
+- [Blog](https://github.com/willy874/BambooDiaryBlog/tree/master/Blog)
 - [MicroFrontend](https://github.com/willy874/BambooDiaryBlog/tree/master/TopicSharing/MicroFrontend)
-- [StateManager](https://github.com/willy874/BambooDiaryBlog/tree/master/Blog)
 
 ### [旅遊紀錄 Side Project](https://github.com/HAHAMud/ease-trip)
 
