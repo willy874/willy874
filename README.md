@@ -21,12 +21,15 @@
 - [LinkedIn](https://www.linkedin.com/in/willy-shiao-2b0a1617b/)
 - [Facebook](https://www.facebook.com/f2eBamboo)
 - [Medium](https://medium.com/@willy8742891)
+- [Threads](https://www.threads.net/@f2e_willy)
 
 ## Github Site Project
 
-### [線上履歷表](https://willy874.github.io/public/resume.pdf)
+### [微服務架構規劃](https://github.com/willy874/cms-ddd-architecture)
 
-### [個人 Library](https://github.com/willy874/bam-library)
+採用 Nest.js 去實作後端，嘗試各種服務的運行與嘗試。
+
+### [UI Library](https://github.com/willy874/bam-library)
 
 採用 Monorepo 建構專案結構，嘗試從底層實作出各式功能。
 
@@ -36,10 +39,6 @@
 
 - [Blog](https://github.com/willy874/BambooDiaryBlog/tree/master/Blog)
 - [MicroFrontend](https://github.com/willy874/BambooDiaryBlog/tree/master/TopicSharing/MicroFrontend)
-
-### [旅遊紀錄 Side Project](https://github.com/HAHAMud/ease-trip)
-
-與朋友共同玩的 Side Project
 
 ### [微前端範例](https://github.com/willy874/poc-micro-frontend)
 
