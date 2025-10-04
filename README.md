@@ -23,17 +23,12 @@
 - [Medium](https://medium.com/@willy8742891)
 - [Threads](https://www.threads.net/@f2e_willy)
 
-## Github Site Project
+
+### [UI Library](https://github.com/willy874/ui-library-architecture)
+
+採用 Zag.js 為基礎開發的 Primitive UI Library
 
 ### [系統架構規劃](https://github.com/willy874/cms-ddd-architecture)
-
-採用 Nest.js 去實作後端，嘗試各種服務的運行與嘗試。
-
-### [Coside Web](https://github.com/willy874/coside-web)
-
-參與 Side Project，使用 Next.js 實作 SSR 架構。
-
-### [UI Library](https://github.com/willy874/bam-library)
 
 採用 Monorepo 建構專案結構，嘗試從底層實作出各式功能。
 
@@ -96,3 +91,4 @@
 ![image](https://img.shields.io/badge/-Pixi.js-000000?style=flat-square&logo=Pixi.js&logoColor=white)
 ![image](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
 ![image](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white)
+
