@@ -1,94 +1,38 @@
-# 竹子 (willy)
+# 竹子 (Willy)
 
-您好~歡迎來到竹子的 Github 專欄。
+前端出身的全端工程師，2019 年入行。最近專注在**多租戶後台架構**、**設計系統**與 **AI 輔助開發工作流**。
 
-我喜歡研究各種專案設計的實作，如果你也喜歡可以一同分享你的創意和經驗。
+假日辦讀書會與技術交流，平日晚間帶新手教學，歡迎私訊交流。
 
-平時假日會開線上線下活動，相同領域的朋友可以一起交流，主要都是讀書會為主。
+[Resume](https://willy874.github.io/) · [YouTube](https://www.youtube.com/@f2e-399/videos) · [LinkedIn](https://www.linkedin.com/in/willy-shiao-2b0a1617b/) · [Medium](https://medium.com/@willy8742891) · [Threads](https://www.threads.net/@f2e_willy) · [Facebook](https://www.facebook.com/f2eBamboo)
 
-平日晚間會帶一些新手教學，有任何問題歡迎私下發問。
+## 近期專案
 
-| Basic Information |                         |
-| ----------------- | ----------------------- |
-| First Job Time    | 2019/07 (想知道資歷自己算) |
-| Line Id           | willy874                |
-| Email             | willy8742891@gmail.com  |
-| LastUpdate        | 2024/07/02              |
+| 專案 | 一句話 | 技術 |
+| --- | --- | --- |
+| [b2b-system](https://github.com/willy874/b2b-system) | 通用型多租戶 B2B 後台：OIDC 登入、ReBAC 權限、稽核、檔案、背景工作一次做好 | TypeScript · PostgreSQL · pg-boss · S3 |
+| [ordering-food](https://github.com/willy874/ordering-food) | 聚會點餐機：大家各自用手機點，自動產出叫餐單與分帳（[線上試用](https://ordering-food-mu.vercel.app)） | React · Express · Drizzle · Vercel |
+| [meet-recording](https://github.com/willy874/meet-recording) | 音訊／影片轉逐字稿，支援 OBS 推流即時轉錄 | FastAPI · faster-whisper · React · SSE |
+| [figma-development](https://github.com/willy874/figma-development) | 讓 Claude Code 從 Storybook 自動產出 Figma Component 的 skills 工作流 | Claude Code · Figma Plugin API |
 
-## Social Media
+## 架構研究
 
-- [Youtube](https://www.youtube.com/@f2e-399/videos)
-- [LinkedIn](https://www.linkedin.com/in/willy-shiao-2b0a1617b/)
-- [Facebook](https://www.facebook.com/f2eBamboo)
-- [Medium](https://medium.com/@willy8742891)
-- [Threads](https://www.threads.net/@f2e_willy)
+- [ui-library-architecture](https://github.com/willy874/ui-library-architecture)：以 Zag.js 為基礎的 Primitive UI Library（Monorepo）
+- [poc-micro-frontend](https://github.com/willy874/poc-micro-frontend)：微前端在各種打包場景下的 POC
 
+## 寫作
 
-### [UI Library](https://github.com/willy874/ui-library-architecture)
+所有文字產出集中在 [BambooDiaryBlog](https://github.com/willy874/BambooDiaryBlog)，包含 [Blog](https://github.com/willy874/BambooDiaryBlog/tree/master/Blog) 與 [MicroFrontend 主題分享](https://github.com/willy874/BambooDiaryBlog/tree/master/TopicSharing/MicroFrontend)。
 
-採用 Zag.js 為基礎開發的 Primitive UI Library
+## Tech Stack
 
-### [系統架構規劃](https://github.com/willy874/cms-ddd-architecture)
+**Frontend** ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black) ![](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) ![](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white) ![](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=TailwindCSS&logoColor=white) ![](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white) ![](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
 
-採用 Monorepo 建構專案結構，嘗試從底層實作出各式功能。
+**Backend** ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white) ![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white) ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white) ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
-### [筆記與部落格整理](https://github.com/willy874/BambooDiaryBlog)
+**Tooling & AI** ![](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white) ![](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white) ![](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white) ![](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=Anthropic&logoColor=white)
 
-集中所有文字產出，包含文字寫作、學習筆記、主題分享。
+## Stats
 
-- [Blog](https://github.com/willy874/BambooDiaryBlog/tree/master/Blog)
-- [MicroFrontend](https://github.com/willy874/BambooDiaryBlog/tree/master/TopicSharing/MicroFrontend)
-
-### [微前端範例](https://github.com/willy874/poc-micro-frontend)
-
-針對微前端進行實作 POC 方案，針對各種打包場景進行測試。
-
-## Dashboard
-
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=willy874&theme=monokai)
-![image](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=willy874&theme=monokai)
-![image](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=willy874&theme=monokai)
-![image](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=willy874&theme=monokai)
-![image](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=willy874&theme=monokai)
-
-## Code Skill
-
-![image](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![image](https://img.shields.io/badge/-Pug-A86454?style=flat-square&logo=Pug&logoColor=white)
-![image](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![image](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=SASS&logoColor=white)
-![image](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
-![image](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![image](https://img.shields.io/badge/-Mithril-000000?style=flat-square&logo=Mithril&logoColor=white)
-![image](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![image](https://img.shields.io/badge/-Nuxt-4FC08D?style=flat-square&logo=Nuxt&logoColor=white)
-![image](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![image](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
-![image](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=Node&logoColor=white)
-![image](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white)
-![image](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white)
-![image](https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=PM2&logoColor=white)
-![image](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)
-![image](https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=Rollup&logoColor=white)
-![image](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![image](https://img.shields.io/badge/-TailwindCss-38B2AC?style=flat-square&logo=TailwindCss&logoColor=white)
-![image](https://img.shields.io/badge/-WindiCSS-38B2AC?style=flat-square&logo=WindiCSS&logoColor=white)
-![image](https://img.shields.io/badge/-Bootstrap-7c11f8?style=flat-square&logo=Bootstrap&logoColor=white)
-![image](https://img.shields.io/badge/-Cordova-E8E8E8?style=flat-square&logo=Cordova&logoColor=white)
-![image](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![image](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white)
-![image](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![image](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white)
-![image](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
-![image](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![image](https://img.shields.io/badge/-ESLint-8080f2?style=flat-square&logo=ESLint&logoColor=white)
-![image](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white)
-![image](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=Cypress&logoColor=white)
-![image](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white)
-![image](https://img.shields.io/badge/-EditorConfig-FEFEFE?style=flat-square&logo=EditorConfig&logoColor=black)
-![image](https://img.shields.io/badge/-MaterialDesign-757575?style=flat-square&logo=MaterialDesign&logoColor=white)
-![image](https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white)
-![image](https://img.shields.io/badge/-Pixi.js-000000?style=flat-square&logo=Pixi.js&logoColor=white)
-![image](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
-![image](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=willy874&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=willy874&theme=monokai)
